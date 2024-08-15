@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Notes.Views.AllNotesPage"
+             Title="YourNotes">
+    <!--Toolbar a item eklemek için -->
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add"
+                     Clicked="Add_Clicked"
+                     IconImageSource="{FontImage Glyph='+', Color=Black, Size=22}"/>
+    </ContentPage.ToolbarItems>
+
+    <CollectionView x:Name="notesCollection"
+                    ItemsSource="{Binding Notes}"
+                    Margin="20"
+                    SelectionMode="Single"
+                    SelectionChanged="notesCollection_SelectionChanged">
+        <!--Koleksiyondaki itemların nasıl listeleneceğini belirle-->
+        <CollectionView.ItemsLayout>
+            <LinearItemsLayout Orientation="Vertical"
+                               ItemSpacing="10"/>
+        </CollectionView.ItemsLayout>
+        <!--Listedeki her itemın görünümünü tanımla-->
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <StackLayout>
+                    <Label Text="{Binding Text}"
+                           FontSize="22"/>
+                    <Label Text="{Binding Text}"
+                           FontSize="14"
+                           TextColor="Silver"/>
+                </StackLayout>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentPage>

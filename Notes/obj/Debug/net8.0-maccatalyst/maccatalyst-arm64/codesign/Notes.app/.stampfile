@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/nursimatasdemir/Documents/Notes/Notes/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/Notes.app
