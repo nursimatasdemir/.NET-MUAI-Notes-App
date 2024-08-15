@@ -34,6 +34,7 @@
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Notes.app/Contents/MonoBundle/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Notes.app/Contents/MonoBundle/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Notes.app/Contents/MonoBundle/runtimeconfig.bin
+/Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Notes.app/Contents/MonoBundle/CommunityToolkit.Mvvm.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Notes.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Notes.app/Contents/MonoBundle/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/publish/../Notes.app/Contents/MonoBundle/Microsoft.Extensions.DependencyInjection.dll

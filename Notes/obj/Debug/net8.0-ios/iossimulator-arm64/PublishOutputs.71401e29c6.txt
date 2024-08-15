@@ -34,6 +34,7 @@
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/zh-Hans/Microsoft.Maui.Controls.resources.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/zh-Hant/Microsoft.Maui.Controls.resources.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/runtimeconfig.bin
+/Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/CommunityToolkit.Mvvm.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.Extensions.Configuration.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.Extensions.DependencyInjection.dll
@@ -49,6 +50,9 @@
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.Maui.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.Maui.Essentials.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.Maui.Graphics.dll
+/Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.Maui.Controls.HotReload.Forms.dll
+/Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+/Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.VisualStudio.DesignTools.TapContract.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Notes.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.CSharp.dll
 /Users/nursimatasdemir/Documents/Notes/Notes/bin/Debug/net8.0-ios/iossimulator-arm64/publish/../Notes.app/Microsoft.VisualBasic.Core.dll
